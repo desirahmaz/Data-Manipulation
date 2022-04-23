@@ -1,0 +1,2 @@
+# Data-Manipulation
+This project is aim to discuss how to manipulate the data by Python. We use Pandas Package to conduct the project. This discuss about how to show the data statistics (mean, min, max, 1st quartile, 2nd quartile (median), 3rd quartile), select the data based on the criteria of number that we want to be extracted, sort the data, summarizing data (by using pivot and groupby, and categorize the the data. 
